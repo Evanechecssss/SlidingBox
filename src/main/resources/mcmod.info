@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "slidingbox",
+    "name": "SlidingBox",
+    "description": "Mod for The Darvin Studio",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://bio.link/evanechecssss",
+    "updateUrl": "",
+    "authorList": [
+      "Evanechecssss"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

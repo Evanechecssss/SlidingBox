@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "slidingbox:fantom_box"
+    },
+    "facing=north": {
+      "model": "slidingbox:fantom_box"
+    },
+    "facing=east": {
+      "model": "slidingbox:fantom_box",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "slidingbox:fantom_box",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "slidingbox:fantom_box",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "slidingbox:fantom_box",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "slidingbox:fantom_box",
+      "x": 90
+    }
+  }
+}
